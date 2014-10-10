@@ -6,6 +6,9 @@ Licencja projektu to MIT, ale może potem zmienię jak coś z tego może kiedyś
 
 Do zrobienia:
 entities: zombie
+
 location: różne lokacje
+
 plot: Jakaś fabuła
+
 sandbox: Projekt ma dowolność rozwoju, bo bawię się możliwościami javy.
