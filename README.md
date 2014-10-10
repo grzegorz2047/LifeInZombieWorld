@@ -5,6 +5,7 @@ Jeżeli chodzi o pull requesty to na razie nie za bardzo je potrzebuje. Chyba, �
 Licencja projektu to MIT, ale może potem zmienię jak coś z tego może kiedyś by wyszło xd (Jak dotrwam)
 
 Do zrobienia:
+
 entities: zombie
 
 location: różne lokacje
